@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project i will add the syllabus and the material related to my semester!
+
 ## Available Scripts
 
 In the project directory, you can run:
